@@ -27,7 +27,6 @@
 
 ---
 
-## O Problema que Este Projeto Resolve
 
 Livrarias comunitárias dependem frequentemente de processos manuais — cadernos de empréstimo, listas em planilha e controle de multas feito a mão. Isso gera inconsistência nos dados, perda de histórico e ausência de rastreio sobre o acervo.
 
