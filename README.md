@@ -11,7 +11,7 @@
 <h1 align="center">📚 ERP Biblioteca</h1>
 
 <p align="center">
-  <strong>Sistema de Gerenciamento de Livraria Comunitária</strong><br/>
+  <strong>Sistema de Gerenciamento de Livraria</strong><br/>
   API RESTful robusta para controle de acervo, empréstimos e usuários,<br/>
   com autenticação JWT, mensageria assíncrona via RabbitMQ e deploy automatizado.
 </p>
