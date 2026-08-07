@@ -28,7 +28,7 @@
 ---
 
 
-Livrarias comunitárias dependem frequentemente de processos manuais — cadernos de empréstimo, listas em planilha e controle de multas feito a mão. Isso gera inconsistência nos dados, perda de histórico e ausência de rastreio sobre o acervo.
+Livrarias dependem frequentemente de processos manuais — cadernos de empréstimo, listas em planilha e controle de multas feito a mão. Isso gera inconsistência nos dados, perda de histórico e ausência de rastreio sobre o acervo.
 
 O **ERP Biblioteca** resolve isso com uma API centralizada que automatiza o ciclo completo: cadastro de livros, empréstimos, devoluções e notificações — integrando-se com um microserviço de notificações via **RabbitMQ** para alertar usuários em tempo real sobre seus empréstimos e cadastros.
 
